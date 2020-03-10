@@ -1,0 +1,35 @@
+<style>
+
+.ms-pagebreadcrumb {
+	display:none;
+}
+
+#MSOZoneCell_WebPartWPQ8, #MSOZoneCell_WebPartWPQ9 {
+	padding-left: 60px;
+	padding-left: 35px !important\9;
+}
+
+#MSOZoneCell_WebPartWPQ3, #MSOZoneCell_WebPartWPQ7 {
+	padding-left: 80px;
+}
+
+.ms-blogRightZone {
+	padding-left: 70px;
+	padding-left: 80px\9;
+	padding-top:55px;
+	padding-top:70px !important\9;
+}
+
+#MSOZoneCell_WebPartWPQ2 {
+	padding-top:80px;
+}
+
+#MSOZoneCell_WebPartWPQ3, #MSOZoneCell_WebPartWPQ10 {
+
+padding-top: 30px;
+/*padding-top: 75px !important\9;
+padding-bottom: 20px;*/
+
+}
+
+</style>
